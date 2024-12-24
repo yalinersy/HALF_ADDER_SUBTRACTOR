@@ -1,7 +1,6 @@
 ### NAME : SRI YALINE R
 ### REG NO : 24006194
-# EXPERIMENT 3 : Implementation of Half Adder and Half Subtractor circuit
-
+# EXPERIMENT 3 : IMPLEMENTATION OF HALF ADDER AND HALF SUBTRACTOR
 
 
 # AIM
